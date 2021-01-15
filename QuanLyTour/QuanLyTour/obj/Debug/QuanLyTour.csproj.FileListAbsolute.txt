@@ -1,0 +1,154 @@
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.exe
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.pdb
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.Properties.Resources.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.csproj.GenerateResource.Cache
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.exe.licenses
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.exe
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.pdb
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmMain.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.exe.config
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDangNhap.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDoiMatKhau.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmKhachHang.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmNhanVien.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmTour.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDichVu.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmTinh.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmLoaiTour.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDangKy.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmThongTinDN.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.csprojResolveAssemblyReference.cache
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDiaDiem.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.exe.config
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.exe
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.pdb
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.exe
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.pdb
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.csprojResolveAssemblyReference.cache
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDangKy.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDangNhap.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDiaDiem.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDichVu.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDoiMatKhau.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmKhachHang.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmMain.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmNhanVien.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmLoaiTour.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmThongTinDN.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmTinh.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmTour.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.Properties.Resources.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.csproj.GenerateResource.Cache
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.exe.licenses
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDatHang.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmPhuongTien.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmChucVu.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmQuocTich.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.exe.config
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.exe
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.pdb
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.csprojResolveAssemblyReference.cache
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmChucVu.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDangKy.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDangNhap.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDatHang.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDiaDiem.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDichVu.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDoiMatKhau.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmKhachHang.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmMain.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmNhanVien.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmLoaiTour.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmPhuongTien.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmQuocTich.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmThongTinDN.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmTinh.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmTour.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.Properties.Resources.resources
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.csproj.GenerateResource.Cache
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.exe.licenses
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.exe
+E:\HK1_Nam4\Công nghệ .NET\DuPhong\DoAn\QuanLyTour\QuanLyTour\bin\Debug\QuanLyTour.pdb
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmChucVu.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmDatHang.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmPhuongTien.resources
+D:\LuuDuLieu\Công nghệ .Net - Xuân Phúc\DoAn\DoAn\QuanLyTour\QuanLyTour\obj\Debug\QuanLyTour.frmQuocTich.resources
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Data.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Data.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\HK1_Nam4\Công nghệ .NET\DoAn\QuanLyTour\QuanLyTour\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
